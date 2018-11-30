@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MachineLearning", "MachineLearning\MachineLearning.pyproj", "{7FD43621-9CFB-4F8F-B865-06F775BFBAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD43621-9CFB-4F8F-B865-06F775BFBAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD43621-9CFB-4F8F-B865-06F775BFBAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7856023D-1D06-41B0-9CB9-D038841D0952}
+	EndGlobalSection
+EndGlobal
